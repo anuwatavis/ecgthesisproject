@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "d249afcc331f85f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7a63bc5f9af1a7a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WHAT IS ECG/ECG.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf073ce1f0a5426e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96f19b1c32c33ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc85d417da216791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "de24b2e5d966c77c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93e28ed4a0a06c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f9182ca4ae7901a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51b37187f86e6cef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WHAT IS ECG/ECG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "WHAT IS ECG/ECG.md",
+    "WHAT IS ECG/Untitled.md"
+  ]
+}
